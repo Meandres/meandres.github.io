@@ -38,7 +38,7 @@ My research explores the broad topic of OS design for performance-critical use-c
 
 - [MorphOS: An Extensible Networked Operating System](https://dse.in.tum.de/wp-content/uploads/2025/10/MorphOS-CoNEXT-2025.pdf). CoNEXT'25
 <br/>&nbsp;Peter Okelmann, **Ilya Meignan**--**Masson**, Masanori Misono, Pramod Bhatotia
-<br/>&nbps; 🏆 Finalist — Best Paper Award
+<br/>&nbsp; 🏆 Finalist — Best Paper Award
 
 {% comment %}
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
