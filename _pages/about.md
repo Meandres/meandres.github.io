@@ -62,11 +62,11 @@ My research explores the broad topic of OS design for performance-critical use-c
 - *2021.09 - 2023.06*, Master of Computer Science ([MoSIG](https://mosig.imag.fr/MainEn/HomePage)), Université Grenoble Alpes, France
 - *2018.09 - 2021.06*, Bachelor of Computer Science (🇫🇷 *Licence d'informatique*), Université de Bourgogne, France
 
-{% comment %}
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2026.05.21*, uCache: A Customizable Unikernel-based IO Cache, at [TUMuchData](https://tumuchdata.club/).
+- *2026.02.27*, uCache: A Customizable Unikernel-based IO Cache, at [SouthBaySystems](https://southbaysystems.xyz/) ([recording](https://www.youtube.com/watch?v=8j1Dqi2M_pI)).
 
+{% comment %}
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 {% endcomment %}
