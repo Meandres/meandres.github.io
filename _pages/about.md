@@ -63,8 +63,16 @@ My research explores the broad topic of OS design for performance-critical use-c
 - *2018.09 - 2021.06*, Bachelor of Computer Science (🇫🇷 *Licence d'informatique*), Université de Bourgogne, France
 
 # 💬 Invited Talks
-- *2026.05.21*, uCache: A Customizable Unikernel-based IO Cache, at [TUMuchData](https://tumuchdata.club/).
+- *2026.05.21*, uCache: A Customizable Unikernel-based IO Cache, at [TUMuchData](https://tumuchdata.club/). [slides](pdfs/TUMuchData_uCache.pdf).
 - *2026.02.27*, uCache: A Customizable Unikernel-based IO Cache, at [SouthBaySystems](https://southbaysystems.xyz/) ([recording](https://www.youtube.com/watch?v=8j1Dqi2M_pI)).
+
+# Other
+
+- Bridging the Performance Gap Between Converged RDMA Dataplane and Kernel-Bypass. ([thesis](pdfs/masters_thesis.pdf))
+<br/>&nbsp; Master's thesis done at the [Barhausen Institut](https://www.barkhauseninstitut.org/en/)/[Technical University of Dresden](https://tu-dresden.de/ing/informatik/sya/professur-fuer-betriebssysteme).
+
+- Bridging the gap between profiling and monitoring in HPC systems with dynamically reconfigurable fine-grain data collection. ([report](pdfs/m1_report.pdf))
+<br/>&nbsp; Travail d'Etude et de Recherche (TER, sort of internship) done at the [DataMove team](https://team.inria.fr/datamove/).
 
 {% comment %}
 # 💻 Internships
