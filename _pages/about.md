@@ -69,11 +69,11 @@ My research explores the broad topic of OS design for performance-critical use-c
 
 # 🚧 Other (non-peer-reviewed)
 
-- Bridging the Performance Gap Between Converged RDMA Dataplane and Kernel-Bypass.
-<br/>&nbsp; Master's thesis done at the [Barhausen Institut](https://www.barkhauseninstitut.org/en/)/[Technical University of Dresden](https://tu-dresden.de/ing/informatik/sya/professur-fuer-betriebssysteme): ([thesis](../pdfs/master_thesis.pdf)).
+- [Bridging the Performance Gap Between Converged RDMA Dataplane and Kernel-Bypass](../pdfs/master_thesis.pdf)
+<br/>&nbsp; Master's thesis done at the [Barhausen Institut](https://www.barkhauseninstitut.org/en/)/[Technical University of Dresden](https://tu-dresden.de/ing/informatik/sya/professur-fuer-betriebssysteme).
 
-- Bridging the gap between profiling and monitoring in HPC systems with dynamically reconfigurable fine-grain data collection.
-<br/>&nbsp; Travail d'Etude et de Recherche (TER, sort of internship) done at the [DataMove team](https://team.inria.fr/datamove/): ([report](../pdfs/m1_report.pdf)).
+- [Bridging the gap between profiling and monitoring in HPC systems with dynamically reconfigurable fine-grain data collection](../pdfs/m1_report.pdf).
+<br/>&nbsp; Travail d'Etude et de Recherche (TER, sort of internship) done at the [DataMove team](https://team.inria.fr/datamove/).
 
 {% comment %}
 # 💻 Internships
