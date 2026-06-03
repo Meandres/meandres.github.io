@@ -34,10 +34,10 @@ My research explores the broad topic of OS design for performance-critical use-c
 {% endcomment %}
 
 <div class='paper-box-text' markdown="1">
-- [uCache: A Customizable Unikernel-based IO Cache](https://dse.in.tum.de/wp-content/uploads/2026/02/uCache-fast-26.pdf) - FAST'26. [Presentation](../pdfs/fast26_ucache_slides.pdf) - [Code](https://github.com/TUM-DSE/uCache)
+- [uCache: A Customizable Unikernel-based IO Cache](https://dse.in.tum.de/wp-content/uploads/2026/02/uCache-fast-26.pdf) ([Presentation](../pdfs/fast26_ucache_slides.pdf), [Code](https://github.com/TUM-DSE/uCache))  - FAST'26.
 <br/>&nbsp;**Ilya Meignan**--**Masson**, Masanori Misono, Viktor Leis, Pramod Bhatotia
 
-- [MorphOS: An Extensible Networked Operating System](https://dse.in.tum.de/wp-content/uploads/2025/10/MorphOS-CoNEXT-2025.pdf) - CoNEXT'25. [Presentation](../pdfs/conext25_morphos_slides.pdf) - [Code](https://github.com/TUM-DSE/morphos)
+- [MorphOS: An Extensible Networked Operating System](https://dse.in.tum.de/wp-content/uploads/2025/10/MorphOS-CoNEXT-2025.pdf) ([Presentation](../pdfs/conext25_morphos_slides.pdf), [Code](https://github.com/TUM-DSE/morphos)) - CoNEXT'25.
 <br/>&nbsp;Peter Okelmann, **Ilya Meignan**--**Masson**, Masanori Misono, Pramod Bhatotia
 <br/>&nbsp; 🏆 Finalist — Best Paper Award
 
