@@ -19,9 +19,10 @@ redirect_from:
 
 I am a PhD candidate working under the supervision of Pr. <a href="https://dse.in.tum.de/bhatotia/">Pramod Bhatotia</a> at the Technical University of Munich (TUM).
 
-My research explores the broad topic of OS design for performance-critical use-cases such as database systems or HPC applications. I am interested in specializing the OS to better interface with the application above and the hardware below.
+My research interests lie at the intersection of operating systems and database systems. I'm especially interested in designing new OS interfaces to make data-intensive applications more performant and simpler.
 
 {% comment %}
+My research explores the broad topic of OS design for performance-critical use-cases such as database systems or HPC applications. I am interested in specializing the OS to better interface with the application above and the hardware below.
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
