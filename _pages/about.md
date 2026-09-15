@@ -36,7 +36,7 @@ My research explores the broad topic of OS design for performance-critical use-c
 <div class='paper-box-text' markdown="1">
 - Should Your Database Systems Use Hardware-Assisted Memory Safety Extensions in Production? [Pre-print](https://dse.in.tum.de/wp-content/uploads/2026/09/memsafedb_sigmod27_preprint.pdf) - SIGMOD'27.
 <br/>&nbsp;**Ilya Meignan**--**Masson**&ast;, Martin Fink&ast;, Masanori Misono, Dimitrios Stavrakakis, Pramod Bhatotia
-&ast; Contributed equally
+<br/>&nbsp;<small>&ast; Equal contribution</small>
 
 - [uCache: A Customizable Unikernel-based IO Cache](https://dse.in.tum.de/wp-content/uploads/2026/02/uCache-fast-26.pdf) ([Presentation](../pdfs/fast26_ucache_slides.pdf), [Code](https://github.com/TUM-DSE/uCache))  - FAST'26.
 <br/>&nbsp;**Ilya Meignan**--**Masson**, Masanori Misono, Viktor Leis, Pramod Bhatotia
