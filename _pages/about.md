@@ -75,10 +75,8 @@ My research explores the broad topic of OS design for performance-critical use-c
 # 🧑‍🏫 Teaching and Advising
 
 **Teaching Assistant Duties**:
-- 2026 Summer semester: Introduction to Software Engineering (lecture)
-- 2025 Summer semester: Introduction to Sofware Engineering (lecture)
-- 2024 Summer semester: Introduction to Software Engineering (lecture)
-- 2023/2024 Winter semester: System Programming (practical lab)
+- Introduction to Software Engineering (lecture): 2024/2025/2026 Summer semester
+- System Programming (practical lab): 2023/2024 Winter semester
 
 **Advised students** <small>(\* co-advised)</small>
 - **MSc thesis:** Cristian Sandu\*, Milen Vitanov\*, Lan Ouyang\*
