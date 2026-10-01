@@ -72,6 +72,19 @@ My research explores the broad topic of OS design for performance-critical use-c
 - *2026.05.21*, uCache: A Customizable Unikernel-based IO Cache, at [TUMuchData](https://tumuchdata.club/). [slides](../pdfs/TUMuchData_uCache.pdf).
 - *2026.02.27*, uCache: A Customizable Unikernel-based IO Cache, at [SouthBaySystems](https://southbaysystems.xyz/) ([recording](https://www.youtube.com/watch?v=8j1Dqi2M_pI)).
 
+# 🧑‍🏫 Teaching and Advising
+
+**Teaching Assistant Duties**:
+- 2026 Summer semester: Introduction to Software Engineering (lecture)
+- 2025 Summer semester: Introduction to Sofware Engineering (lecture)
+- 2024 Summer semester: Introduction to Software Engineering (lecture)
+- 2023/2024 Winter semester: System Programming (practical lab)
+
+**Advised students** <small>(\* co-advised)</small>
+- **MSc thesis:** Cristian Sandu\*, Milen Vitanov\*, Lan Ouyang\*
+- **BSc thesis:** Paul Zhang\*, Martin Lindbüchl, Raphael Dichler\*, Hristina Yordanova Grigorova, Anton Ge\*, Samuel Khon
+- **Guided Research:** Martin Lindbüchl, Maurice Scholtes
+
 # 🚧 Other (non-peer-reviewed)
 
 - [Bridging the Performance Gap Between Converged RDMA Dataplane and Kernel-Bypass](../pdfs/master_thesis.pdf)
