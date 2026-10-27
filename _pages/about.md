@@ -79,7 +79,7 @@ My research explores the broad topic of OS design for performance-critical use-c
 - System Programming (practical lab): 2023/2024 Winter semester
 
 **Advised students** <small>(\* co-advised)</small>
-- **MSc thesis:** Cristian Sandu\*, Milen Vitanov\*, Lan Ouyang\*
+- **MSc thesis:** Cristian Sandu\*, Milen Vitanov\*, Lan Ouyang\*, Simon Kammermaier\*
 - **BSc thesis:** Paul Zhang\*, Martin Lindbüchl, Raphael Dichler\*, Hristina Yordanova Grigorova, Anton Ge\*, Samuel Khon
 - **Guided Research:** Martin Lindbüchl, Maurice Scholtes
 
